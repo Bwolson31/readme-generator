@@ -1,37 +1,36 @@
-![License Badge](https://img.shields.io/badge/license-MIT%20License-blue)
 
-# idag;sg
+
+# Readme Generator
 
 ## Description 
-dafjdsjglfas;
+The red glow of tail lights indicating another long drive home from work after an even longer 24-hour shift at the hospital. The shift hadn’t been horrible but the constant stream of patients entering the ER meant there was no downtime. She had some of the “regulars” in tonight with new ailments they were sure were going to kill them. It’s amazing what a couple of Tylenol and a physical exam from the doctor did to eliminate their pain, nausea, headache, or whatever other mild symptoms they had. Sometimes she wondered if all they really needed was some interaction with others and a bit of the individual attention they received from the nurses.
    
 
 
 ## Table of Contents 
 - [Installation](#installation)
 - [Usage](#usage)
-- [License](#License)
+
 - [Contributing](#contributing)
 - [Tests](#tests)
 - [Questions](#questions)
 
 ## Installation 
-asdgklsdgj
+The red glow of tail lights indicating another long drive home from work after an even longer 24-hour shift at the hospital. The shift hadn’t been horrible but the constant stream of patients entering the ER meant there was no downtime. She had some of the “regulars” in tonight with new ailments they were sure were going to kill them. It’s amazing what a couple of Tylenol and a physical exam from the doctor did to eliminate their pain, nausea, headache, or whatever other mild symptoms they had. Sometimes she wondered if all they really needed was some interaction with others and a bit of the individual attention they received from the nurses.
 
 ## Usage
-dag;idlsgsaa
+The red glow of tail lights indicating another long drive home from work after an even longer 24-hour shift at the hospital. The shift hadn’t been horrible but the constant stream of patients entering the ER meant there was no downtime. She had some of the “regulars” in tonight with new ailments they were sure were going to kill them. It’s amazing what a couple of Tylenol and a physical exam from the doctor did to eliminate their pain, nausea, headache, or whatever other mild symptoms they had. Sometimes she wondered if all they really needed was some interaction with others and a bit of the individual attention they received from the nurses.
 
-## License 
-This project is licensed under the MIT License.
+
 
 
 ## Contributing 
-akdgjas'dgjaksl;dgj
+The red glow of tail lights indicating another long drive home from work after an even longer 24-hour shift at the hospital. The shift hadn’t been horrible but the constant stream of patients entering the ER meant there was no downtime. She had some of the “regulars” in tonight with new ailments they were sure were going to kill them. It’s amazing what a couple of Tylenol and a physical exam from the doctor did to eliminate their pain, nausea, headache, or whatever other mild symptoms they had. Sometimes she wondered if all they really needed was some interaction with others and a bit of the individual attention they received from the nurses.
 
 ## Tests
-agdjakgld;aklgfa
+The red glow of tail lights indicating another long drive home from work after an even longer 24-hour shift at the hospital. The shift hadn’t been horrible but the constant stream of patients entering the ER meant there was no downtime. She had some of the “regulars” in tonight with new ailments they were sure were going to kill them. It’s amazing what a couple of Tylenol and a physical exam from the doctor did to eliminate their pain, nausea, headache, or whatever other mild symptoms they had. Sometimes she wondered if all they really needed was some interaction with others and a bit of the individual attention they received from the nurses.
 
 ## Questions
-GitHub Profile: [dmklfa'sdgal](https://github.com/dmklfa'sdgal)
+GitHub Profile: [bwolson31@gmail.com](https://github.com/bwolson31@gmail.com)
 
-For additional questions, contact me via email: adsmg'aklsdgm'klas
+For additional questions, contact me via email: bwolson31@gmail.com

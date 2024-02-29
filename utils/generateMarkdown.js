@@ -1,21 +1,20 @@
 
 // function to make none choice work in generateMarkdown function
-function renderLicense (license) {
-    console.log(license)
+function renderLicense(license) {
     if (license === 'None') {
-    return '' 
+        return '';
+    } else {
+        return '- [License](#license)';
     }
-else {
-return '- [License](#License)'
-}     
-
 }
 
  function generateMarkdown ({licenseUsage, projectDescription, usageInformation, contributionGuidelines, testInstructions, projectName, installationInstructions, githubUsername, emailAddress}) {
 
-    const license = renderLicense(licenseUsage)
+    const licenseSelection = renderLicense(licenseUsage);
+    const licenseBadge = licenseUsage !== 'None' ? `![License Badge](https://img.shields.io/badge/license-${encodeURIComponent(licenseUsage)}-blue)\n` : '';
+
   
-    return `![License Badge](https://img.shields.io/badge/license-${encodeURIComponent(licenseUsage)}-blue)
+    return `${licenseBadge}
 
 # ${projectName}
 
@@ -27,7 +26,7 @@ ${projectDescription}
 ## Table of Contents 
 - [Installation](#installation)
 - [Usage](#usage)
-${license}
+${licenseSelection}
 - [Contributing](#contributing)
 - [Tests](#tests)
 - [Questions](#questions)
@@ -38,8 +37,10 @@ ${installationInstructions}
 ## Usage
 ${usageInformation}
 
+${licenseSelection !== '' ? `
 ## License 
 This project is licensed under the ${licenseUsage}.
+` : ''}
 
 
 ## Contributing 
