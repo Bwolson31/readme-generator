@@ -1,36 +1,40 @@
+![License Badge](https://img.shields.io/badge/license-MIT%20License-blue)
 
 
 # Readme Generator
 
 ## Description 
-The red glow of tail lights indicating another long drive home from work after an even longer 24-hour shift at the hospital. The shift hadn’t been horrible but the constant stream of patients entering the ER meant there was no downtime. She had some of the “regulars” in tonight with new ailments they were sure were going to kill them. It’s amazing what a couple of Tylenol and a physical exam from the doctor did to eliminate their pain, nausea, headache, or whatever other mild symptoms they had. Sometimes she wondered if all they really needed was some interaction with others and a bit of the individual attention they received from the nurses.
+The Readme Generator  project is designed to make creating Readme files easier. By using this program, users will not have to spend any time thinking about how they want to structure or or organizaize their Readme File. Rather, they will just have to focus their time and energy on the content of their Readme file.
    
 
 
 ## Table of Contents 
 - [Installation](#installation)
 - [Usage](#usage)
-
+- [License](#license)
 - [Contributing](#contributing)
 - [Tests](#tests)
 - [Questions](#questions)
 
 ## Installation 
-The red glow of tail lights indicating another long drive home from work after an even longer 24-hour shift at the hospital. The shift hadn’t been horrible but the constant stream of patients entering the ER meant there was no downtime. She had some of the “regulars” in tonight with new ailments they were sure were going to kill them. It’s amazing what a couple of Tylenol and a physical exam from the doctor did to eliminate their pain, nausea, headache, or whatever other mild symptoms they had. Sometimes she wondered if all they really needed was some interaction with others and a bit of the individual attention they received from the nurses.
+To install this project, please clone the repoository to your local machine and run 'npm install inquirer' to install the necessary dependencies. 
 
 ## Usage
-The red glow of tail lights indicating another long drive home from work after an even longer 24-hour shift at the hospital. The shift hadn’t been horrible but the constant stream of patients entering the ER meant there was no downtime. She had some of the “regulars” in tonight with new ailments they were sure were going to kill them. It’s amazing what a couple of Tylenol and a physical exam from the doctor did to eliminate their pain, nausea, headache, or whatever other mild symptoms they had. Sometimes she wondered if all they really needed was some interaction with others and a bit of the individual attention they received from the nurses.
+To use this project, type in node index.js and answer the prompts that follow in the terminal. 
 
+
+## License 
+This project is licensed under the MIT License.
 
 
 
 ## Contributing 
-The red glow of tail lights indicating another long drive home from work after an even longer 24-hour shift at the hospital. The shift hadn’t been horrible but the constant stream of patients entering the ER meant there was no downtime. She had some of the “regulars” in tonight with new ailments they were sure were going to kill them. It’s amazing what a couple of Tylenol and a physical exam from the doctor did to eliminate their pain, nausea, headache, or whatever other mild symptoms they had. Sometimes she wondered if all they really needed was some interaction with others and a bit of the individual attention they received from the nurses.
+N/A
 
 ## Tests
-The red glow of tail lights indicating another long drive home from work after an even longer 24-hour shift at the hospital. The shift hadn’t been horrible but the constant stream of patients entering the ER meant there was no downtime. She had some of the “regulars” in tonight with new ailments they were sure were going to kill them. It’s amazing what a couple of Tylenol and a physical exam from the doctor did to eliminate their pain, nausea, headache, or whatever other mild symptoms they had. Sometimes she wondered if all they really needed was some interaction with others and a bit of the individual attention they received from the nurses.
+N/A
 
 ## Questions
-GitHub Profile: [bwolson31@gmail.com](https://github.com/bwolson31@gmail.com)
+GitHub Profile: [bwolson31](https://github.com/bwolson31)
 
 For additional questions, contact me via email: bwolson31@gmail.com
