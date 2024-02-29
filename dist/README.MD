@@ -4,7 +4,7 @@
 # Readme Generator
 
 ## Description 
-The Readme Generator  project is designed to make creating Readme files easier. By using this program, users will not have to spend any time thinking about how they want to structure or or organizaize their Readme File. Rather, they will just have to focus their time and energy on the content of their Readme file.
+They decided to find the end of the rainbow. While they hoped they would find a pot of gold, neither of them truly believed that the mythical pot would actually be there. Nor did they believe they could actually find the end of the rainbow. Still, it seemed like a fun activity for the day, and pictures of them chasing rainbows would look great on their Instagram accounts. They would have never believed they would actually find the end of a rainbow, and when they did, what they actually found there.
    
 
 
@@ -17,10 +17,10 @@ The Readme Generator  project is designed to make creating Readme files easier. 
 - [Questions](#questions)
 
 ## Installation 
-To install this project, please clone the repoository to your local machine and run 'npm install inquirer' to install the necessary dependencies. 
+They decided to find the end of the rainbow. While they hoped they would find a pot of gold, neither of them truly believed that the mythical pot would actually be there. Nor did they believe they could actually find the end of the rainbow. Still, it seemed like a fun activity for the day, and pictures of them chasing rainbows would look great on their Instagram accounts. They would have never believed they would actually find the end of a rainbow, and when they did, what they actually found there.
 
 ## Usage
-To use this project, type in node index.js and answer the prompts that follow in the terminal. 
+They decided to find the end of the rainbow. While they hoped they would find a pot of gold, neither of them truly believed that the mythical pot would actually be there. Nor did they believe they could actually find the end of the rainbow. Still, it seemed like a fun activity for the day, and pictures of them chasing rainbows would look great on their Instagram accounts. They would have never believed they would actually find the end of a rainbow, and when they did, what they actually found there.
 
 
 ## License 
@@ -29,12 +29,12 @@ This project is licensed under the MIT License.
 
 
 ## Contributing 
-N/A
+They decided to find the end of the rainbow. While they hoped they would find a pot of gold, neither of them truly believed that the mythical pot would actually be there. Nor did they believe they could actually find the end of the rainbow. Still, it seemed like a fun activity for the day, and pictures of them chasing rainbows would look great on their Instagram accounts. They would have never believed they would actually find the end of a rainbow, and when they did, what they actually found there.
 
 ## Tests
-N/A
+They decided to find the end of the rainbow. While they hoped they would find a pot of gold, neither of them truly believed that the mythical pot would actually be there. Nor did they believe they could actually find the end of the rainbow. Still, it seemed like a fun activity for the day, and pictures of them chasing rainbows would look great on their Instagram accounts. They would have never believed they would actually find the end of a rainbow, and when they did, what they actually found there.
 
 ## Questions
-GitHub Profile: [bwolson31](https://github.com/bwolson31)
+GitHub Profile: [Bwolson31](https://github.com/Bwolson31)
 
 For additional questions, contact me via email: bwolson31@gmail.com
